@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: cah
+---
+testFramework: junit
+sourceLanguage: java
