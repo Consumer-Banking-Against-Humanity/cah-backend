@@ -9,3 +9,8 @@
 ```
 ./run-image.sh
 ```
+
+### Build and run with docker
+```
+./run-docker.sh
+```
