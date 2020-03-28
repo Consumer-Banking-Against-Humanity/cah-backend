@@ -1,5 +1,4 @@
-package com.cah.backend;
-
+package simple.ws;
 
 import io.micronaut.runtime.Micronaut;
 
