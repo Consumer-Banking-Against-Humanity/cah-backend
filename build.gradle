@@ -7,7 +7,7 @@ plugins {
 
 
 version "0.1"
-group "cah"
+group "com.cah.backend"
 
 repositories {
     mavenCentral()
